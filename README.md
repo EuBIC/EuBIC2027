@@ -4,7 +4,7 @@ This repository is the home for all discussions and proposals regarding the EuBI
 
 ## 💡Organization and location proposals
 
-Do you know a great location for the Developers Meeting? Would you like to be local organizer (with the full support of EuBIC-MS)? Submit your proposal in the [Discussions tab](https://github.com/EuBIC/EuBIC2027/discussions)
+Do you know a great location for the Developers Meeting? Would you like to be local organizer (with the full support of EuBIC-MS)? Submit your proposal in the [Discussions tab](https://github.com/EuBIC/EuBIC2027/discussions/new?category=organization-and-location-proposals)
 
 
 ## 🧑‍💻 Become a EuBIC-MS member
