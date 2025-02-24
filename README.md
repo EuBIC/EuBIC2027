@@ -2,9 +2,12 @@
 
 This repository is the home for all discussions and proposals regarding the EuBIC-MS Developers Meeting 2025.
 
-## 💡Organization and location proposals
+## 💡Organization and location proposals 
 
 Do you know a great location for the Developers Meeting? Would you like to be local organizer (with the full support of EuBIC-MS)? Submit your proposal in the [Discussions tab](https://github.com/EuBIC/EuBIC2027/discussions/new?category=organization-and-location-proposals)
+
+> [!IMPORTANT]  
+> The deadline for proposals is 7/03/2025.
 
 
 ## 🧑‍💻 Become a EuBIC-MS member
