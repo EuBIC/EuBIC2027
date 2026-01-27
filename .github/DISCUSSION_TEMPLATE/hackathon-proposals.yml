@@ -1,0 +1,66 @@
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank for contributing a hackathon proposal for the EuBIC Developer Meeting 2027!
+      Before you fill this out please make sure to read the [full guidelines for proposals](https://github.com/EuBIC/EuBIC2027/blob/main/FullGuidelines.md).
+      If you want to provide any additional information outside what this form requires please comment of the discussion after you created it.
+- type: input
+  id: title
+  attributes:
+    label: Title
+    description: "A catchy working title for your hack! 😄"
+    placeholder: "Probably something regarding mass spectrometry"
+  validations:
+    required: true
+- type: textarea
+  id: abstract
+  attributes:
+    label: Abstract
+    description: "Up to 200 words describing the general goal of the project and why it is well suited as a community project."
+  validations:
+    required: true
+- type: textarea
+  id: plan
+  attributes:
+    label: Project Plan
+    description: "A (high-level) project plan detailing the work to be conducted. This primarily includes tasks that will be tackled during the developer's meeting, but we encourage you to also think about a follow-up strategy."
+    value: |
+      These are the tasks we imagine:
+      - Assemble training data
+      - Build model
+      - Evaluate model
+      - Disseminate the results
+
+      During the hackathon we will therefore do:
+      1. Define criteria for training data
+      2. Scrape ProteomeExchange
+      3. Test model architectures
+      ...
+
+      After the hackaton we will ...
+  validations:
+    required: true
+- type: textarea
+  id: tech
+  attributes:
+    label: Technical Details
+    description: "Provide technical details like programming language, dependencies, and datasets."
+    value: |
+      Programming language: python, R, Rust, Mojo
+      Will build on existing software: PeptDeep, MaxQuant, Proteobench
+      These datasets will be used: PRIDE-Link, DOIs
+  validations:
+    required: true
+- type: textarea
+  id: contact
+  attributes:
+    label: Contact information
+    description: "Your name, affiliation, and contact information."
+    value: |
+      Jane Doe
+      Main Institute of AGI
+      Department of proteomcis
+      doe@miagi.org
+  validations:
+    required: true
