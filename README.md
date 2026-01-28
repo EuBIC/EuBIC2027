@@ -1,9 +1,10 @@
-# EuBIC 2027 developers' meeting on Computational Mass Spectrometry
-### 31.1. - 5. February 2027, Gimo, Sweden
+# EuBIC-MS Hackathon 2027
 
-![Logo](graphics/eubic_2027_logo_long.png)
+**31 January - 5 February 2027; Gimo, Sweden**
 
-This repository is the home for all discussions and proposals regarding the EuBIC-MS Developers Meeting 2027.
+![Flyer](graphics/Flyer.png)
+
+This repository is the home for all discussions and proposals regarding the EuBIC-MS Hackathon 2027.
 
 💡 Go to [Discussions](https://github.com/EuBIC/EuBIC2027/discussions) to see all hackathon proposals or propose your own idea
 
@@ -11,15 +12,15 @@ This repository is the home for all discussions and proposals regarding the EuBI
 
 For more information about the meeting, please check the **[official website](https://eubic-ms.org/events/hackathon-2027/)**.
 
-## Submission of project proposals 
+## Submission of project proposals
 
 Follow the [discussions on the individual projects](https://github.com/EuBIC/EuBIC2027/discussions/categories/hackathon-proposals) to find out more and prepare for the event.
 
 There is no need to settle on a specific project upfront, we will create the groups on the first day of the meeting after hearing short presentations on all projects.
 
-----
+---
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2027/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC  developers meeting can be found **[here](https://github.com/EuBIC/EuBIC2025/discussions/categories/hackathon-proposals)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2027/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the 2025 edition can be found **[here](https://github.com/EuBIC/EuBIC2025/discussions/categories/hackathon-proposals)**.
 
 ### How to submit a project proposal?
 
@@ -28,7 +29,7 @@ Create a **[discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?categ
 **Project description:**
 
 - A general abstract of up to 200 words describing the goal of the project and why it is well suited as a community project.
-- A (high-level) project plan detailing the work to be conducted. This primarily includes tasks that will be tackled during the developers meeting, but we encourage you to also think about a follow-up strategy.
+- A (high-level) project plan detailing the work to be conducted. This primarily includes tasks that will be tackled during the Hackathon, but we encourage you to also think about a follow-up strategy.
 
 **Technical details:**
 
@@ -45,6 +46,7 @@ Create a **[discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?categ
 - Upvote for your favorite project in the [Discussions](https://github.com/eubic/EuBIC2027/discussions) section!
 - Leave comments to interesting proposals. Engage in a discussion to finetune the project proposals!
 
+This repository, including project proposals and discussions, are subject to the [EuBIC-MS Code of Conduct](https://eubic-ms.org/about/code-of-conduct/).
 
 ### Important deadlines
 
