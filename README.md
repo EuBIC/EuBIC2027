@@ -50,4 +50,8 @@ This repository, including project proposals and discussions, are subject to the
 
 ### Important deadlines
 
-TBA
+- Hackathon deadline: September 11th
+- Registration open: September 1st
+- Hackathons selected: October 2nd
+- Abstract deadline: December 11th
+- Registration deadline: December 11th

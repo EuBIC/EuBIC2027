@@ -46,7 +46,7 @@ These projects can include, but are not limited to:
 ## Guidelines
 
 Hackathon project proposals can be submitted by creating a [discussion on GitHub](https://github.com/EuBIC/EuBIC2027/discussions/new?category=hackathon-proposals). 
-The project proposal submission deadline is TBA
+The project proposal submission deadline is 11th September 2026
 
 Please describe your **project proposal** in sufficient detail. Project proposal submissions should at least include the following 
 information:
