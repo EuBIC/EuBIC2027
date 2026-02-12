@@ -50,8 +50,8 @@ This repository, including project proposals and discussions, are subject to the
 
 ### Important deadlines
 
-- Hackathon deadline: September 11th
-- Registration open: September 1st
-- Hackathons selected: October 2nd
-- Abstract deadline: December 11th
-- Registration deadline: December 11th
+- Hackathon deadline: 11th September 2026
+- Registration open:  1st September 2026
+- Hackathons selected: 2nd October 2026
+- Abstract deadline: 11th December 2026
+- Registration deadline: 11th December 2026
