@@ -9,7 +9,7 @@ body:
   id: title
   attributes:
     label: Title
-    description: "A catchy working title for your hack! 😄"
+    description: "A catchy working title for your hackathon"
     placeholder: "Probably something regarding mass spectrometry"
   validations:
     required: true
@@ -47,9 +47,9 @@ body:
     label: Technical Details
     description: "Provide technical details like programming language, dependencies, and datasets."
     value: |
-      Programming language: python, R, Rust, Mojo
-      Will build on existing software: PeptDeep, MaxQuant, Proteobench
-      These datasets will be used: PRIDE-Link, DOIs
+      Programming language: Python, R, Rust...
+      Will build on existing software: PeptDeep, OpenMS, ProteoBench...
+      These datasets will be used: PRIDE accession, DOIs...
   validations:
     required: true
 - type: textarea
@@ -60,7 +60,7 @@ body:
     value: |
       Jane Doe
       Main Institute of AGI
-      Department of proteomcis
+      Department of proteomics
       doe@miagi.org
   validations:
     required: true

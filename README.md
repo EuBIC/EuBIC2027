@@ -10,15 +10,15 @@ This repository is the home for all discussions and proposals regarding the EuBI
 
 🧑‍💻 [Become a EuBIC-MS member](https://eubic-ms.org/become-a-member/) to join the organizational team on Slack
 
-For more information about the meeting, please check the **[official website](https://eubic-ms.org/events/hackathon-2027/)**.
+For more information about the meeting, please check the [official website](https://eubic-ms.org/events/hackathon-2027/).
 
 ## Hackathon projects
 
 ### How to submit
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2027/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the 2025 edition can be found **[here](https://github.com/EuBIC/EuBIC2025/discussions/categories/hackathon-proposals)**.
+Please carefully read the [full guidelines](https://github.com/eubic/EuBIC2027/blob/master/FullGuidelines.md) before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the 2025 edition can be found [here](https://github.com/EuBIC/EuBIC2025/discussions/categories/hackathon-proposals).
 
-Create a **[discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?category=hackathon-proposals)** in this repository describing your project. The link takes you to a form listing some of the relevant information that should be included.
+Create a [discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?category=hackathon-proposals) in this repository describing your project. The link takes you to a form listing some of the relevant information that should be included.
 
 ### How to vote
 
