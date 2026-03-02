@@ -12,46 +12,29 @@ This repository is the home for all discussions and proposals regarding the EuBI
 
 For more information about the meeting, please check the **[official website](https://eubic-ms.org/events/hackathon-2027/)**.
 
-## Submission of project proposals
+## Hackathon projects
 
-Follow the [discussions on the individual projects](https://github.com/EuBIC/EuBIC2027/discussions/categories/hackathon-proposals) to find out more and prepare for the event.
-
-There is no need to settle on a specific project upfront, we will create the groups on the first day of the meeting after hearing short presentations on all projects.
-
----
+### How to submit
 
 Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2027/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the 2025 edition can be found **[here](https://github.com/EuBIC/EuBIC2025/discussions/categories/hackathon-proposals)**.
 
-### How to submit a project proposal?
+Create a **[discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?category=hackathon-proposals)** in this repository describing your project. The link takes you to a form listing some of the relevant information that should be included.
 
-Create a **[discussion](https://github.com/EuBIC/EuBIC2027/discussions/new?category=hackathon-proposals)** in this repository describing your project. The link takes you to a form listing some of the relevant information that should be included:
+### How to vote
 
-**Project description:**
+- Upvote for your favorite project(s) in the [Discussions](https://github.com/EuBIC/EuBIC2027/discussions/categories/hackathon-proposals) section!
+- Leave comments to interesting proposals. Engage in a discussion to fine-tune the project proposals!
 
-- A general abstract of up to 200 words describing the goal of the project and why it is well suited as a community project.
-- A (high-level) project plan detailing the work to be conducted. This primarily includes tasks that will be tackled during the Hackathon, but we encourage you to also think about a follow-up strategy.
+Your votes do not determine which hackathon project you will join at the conference. On the first day of the event, you may choose any project, irrespective of how you voted.
 
-**Technical details:**
+### Important dates and deadlines
 
-- The programming language(s) that will be used.
-- (If applicable) any existing software that will be featured.
-- (If applicable) any datasets that will be used and their availability.
+- Hackathon proposal deadline: 30 June 2026
+- Registration open: 1 September 2026
+- Hackathons selected: 14 September 2026
+- Abstract deadline: 11 December 2026
+- Registration deadline: 11 December 2026
 
-**Contact information:**
-
-- Your name, affiliation, and contact information.
-
-### How to contribute?
-
-- Upvote for your favorite project in the [Discussions](https://github.com/eubic/EuBIC2027/discussions) section!
-- Leave comments to interesting proposals. Engage in a discussion to finetune the project proposals!
+---
 
 This repository, including project proposals and discussions, are subject to the [EuBIC-MS Code of Conduct](https://eubic-ms.org/about/code-of-conduct/).
-
-### Important deadlines
-
-- Hackathon deadline: 11th September 2026
-- Registration open:  1st September 2026
-- Hackathons selected: 2nd October 2026
-- Abstract deadline: 11th December 2026
-- Registration deadline: 11th December 2026
