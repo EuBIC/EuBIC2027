@@ -29,7 +29,7 @@ Your votes do not determine which hackathon project you will join at the confere
 
 ### Important dates and deadlines
 
-- Hackathon proposal deadline: 30 June 2026
+- Hackathon proposal deadline: ~~30 June~~ 1 September 2026
 - Registration open: 1 September 2026
 - Hackathons selected: 14 September 2026
 - Abstract deadline: 11 December 2026
